@@ -1,4 +1,8 @@
 _repo: The-Sepoy_48666
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48666-h/images/cover.jpg
 creator:
   author:
     agent_name: Candler, Edmund
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36363
     wikipedia: http://en.wikipedia.org/wiki/Edmund_Candler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48666#The-Sepoy
 gutenberg_issued: '2015-04-08'
 gutenberg_type: Text
 identifiers:
